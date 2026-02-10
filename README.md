@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hyeonseok Kim&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hyeonseok_Kim&fontSize=80" />
 
 ## Tech Stack
 
