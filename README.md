@@ -38,7 +38,8 @@
 
 ## Journal
   (*equal contribution)
-  * M.Kim*, **H.Kim***, Y.Lee, "[Development of an On-device XR Workspace System Using Real-time Hand Gesture Recognition with a Mobile Two-dimensional Camera](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12154343)", Journal of Institute of Control, Robotics and Systems (in Korean), May 2025.
+  * **H.Kim**, Y.Lee "Generalized Zero-Shot Point Cloud Understanding: Feature Generation and Probability Calibration", submitted.
+  * M.Kim*, **H.Kim***, and Y.Lee, "[Development of an On-device XR Workspace System Using Real-time Hand Gesture Recognition with a Mobile Two-dimensional Camera](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12154343)", Journal of Institute of Control, Robotics and Systems (in Korean), May 2025.
 
 ## Patents
   * Y. Lee, **H. Kim**, "영상의 회전 각도를 추정하는 추정 모델을 학습 시키는 학습 장치 및 학습 방법", KR Application 10-2023-0137758, 2023.
